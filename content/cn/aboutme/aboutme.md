@@ -15,8 +15,8 @@ Find me on Github.com:[trateou (milliways) (github.com)](https://github.com/trat
 
 群二维码
 
-![image-20230330214351359](/img/image-20230330214351359.png)
+![image-20230330214351359](/midjourney/img/image-20230330214351359.png)
 
 个人二维码
 
-![image-20230330214314447](/img/image-20230330214314447.png)
+![image-20230330214314447](/midjourney/img/image-20230330214314447.png)
