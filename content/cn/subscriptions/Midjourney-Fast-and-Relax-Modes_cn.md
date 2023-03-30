@@ -1,3 +1,7 @@
+---
+title: Fast 和 Relax 模式
+weight: 4
+---
 Midjourney使用强大的图形处理单元（GPU）解释和处理每个提示。当您订阅Midjourney时，您购买的是在这些GPU上的时间。
 
 不同的[订阅计划](https://docs.midjourney.com/plans)拥有不同数量的每月GPU时间。每月订阅GPU时间属于**Fast Mode**时间。Fast Mode尝试立即为您提供GPU。它是最高优先级的处理层，并使用您的订阅的每月GPU时间。

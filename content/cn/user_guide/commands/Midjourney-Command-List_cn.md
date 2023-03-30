@@ -1,3 +1,8 @@
+---
+title: 命令列表
+geekdocCollapseSection: true
+weight: 1
+---
 通过输入指令，您可以在Discord上与Midjourney机器人进行交互。指令用于创建图像、更改默认设置、监视用户信息和执行其他有用的任务。
 
 Midjourney指令可以在任何Bot频道中使用，在Midjourney机器人被允许操作的私人Discord服务器上使用，或在与Midjourney机器人的直接消息中使用。
@@ -84,8 +89,8 @@ ___
 
 ## 已弃用
 
-/私人（替换为'/stealth'）  
-/像素  
+/私人（替换为'/stealth'）
+/像素
 /点子
 
 通过输入指令，您可以在Discord上与Midjourney机器人进行交互。指令用于创建图像、更改默认设置、监视用户信息和执行其他有用的任务。

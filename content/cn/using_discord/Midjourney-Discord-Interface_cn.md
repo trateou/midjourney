@@ -1,3 +1,7 @@
+---
+title: Discord的上Midjourney的接口
+weight: 2
+---
 您可以在Discord上与Midjourney机器人进行交互。Midjourney的服务器有各种频道，可用于协同工作、技术和计费支持、官方公告、提供反馈和讨论。社区支持、鼓励和热衷于与刚开始使用的用户分享他们的知识。
 
 Midjourney Discord：[`https://discord.gg/midjourney`](https://discord.gg/midjourney)
@@ -12,30 +16,30 @@ ___
 
 ![](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Interface_servers.png)
 
-**直接消息**  
+**直接消息**
 在您的直接消息中与Midjourney Bot一对一地工作，以获得更加安静的体验。
 
-**Midjourney官方服务器**  
+**Midjourney官方服务器**
 官方的Midjourney服务器，带有协同工作和计费/技术支持的频道。
 
 ### 频道列表
 
 ![Midjourney Discord服务器的频道图像](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Interface_Channels.png)
 
-**#trial-support**  
+**#trial-support**
 访问此频道以获得Midjourney指南的计费和技术支持。
 
-**#newbies**  
+**#newbies**
 访问任何一个#newbies频道以创建图像。
 
 ### 成员列表
 
 ![Midjourney Discord服务器成员列表的图片](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Interface_members.png)
 
-**Midjourney Bot**  
+**Midjourney Bot**
 使用`/imagine`命令生成图像的机器人
 
-**Moderators和Guides**  
+**Moderators和Guides**
 Moderators和Guides可以在支持频道中帮助解决计费和技术问题。
 
 ___
@@ -82,14 +86,14 @@ ___
 
 ## 直接消息
 
-如果#general或#newbie频道过于快速，Midjouney订阅者可以在他们的Discord直接消息中与Midjourney Bot一对一地工作。  
+如果#general或#newbie频道过于快速，Midjouney订阅者可以在他们的Discord直接消息中与Midjourney Bot一对一地工作。
 [了解如何直接消息Midjourney Bot](https://docs.midjourney.com/docs/direct-messages)
 
 ___
 
 ## 表情符号反应
 
-对Midjourney Jobs使用不同的表情符号反应，将图像发送到您的直接消息中，取消正在进行的作业或删除图像。  
+对Midjourney Jobs使用不同的表情符号反应，将图像发送到您的直接消息中，取消正在进行的作业或删除图像。
 [了解如何使用表情符号反应。](https://docs.midjourney.com/discord-emoji-reactions)
 
 ___

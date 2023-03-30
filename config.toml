@@ -1,6 +1,6 @@
 languageCode = 'en-us'
 baseURL = "http://localhost"
-title = "Geekdocs"
+title = "Midjourney 中文文档"
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false

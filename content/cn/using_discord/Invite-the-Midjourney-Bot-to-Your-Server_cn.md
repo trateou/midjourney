@@ -1,3 +1,7 @@
+---
+title: 邀请机器人至你的服务器
+weight: 2
+---
 ## 邀请机器人至你的服务器
 
 -   Light
@@ -20,7 +24,7 @@ ___
 
 ## 如何新增机器人
 
-从用户列表中选择Midjourney机器人，然后点击“添加到服务器”： 
+从用户列表中选择Midjourney机器人，然后点击“添加到服务器”：
 ![MJ_BotInvite.png](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_BotInvite.png)
 
 选择你想要添加到的服务器，然后遵循Discord中的说明。
@@ -53,7 +57,7 @@ ___
 
 **只有具有“管理服务器”权限的个人才能将Midjourney机器人添加到该服务器上。如果你在列表中看不到你的服务器，请确保你拥有这个权限。**
 
-1.  从你的Discord服务器主页中，选择“服务器设置”菜单中的“角色”选项卡。 
+1.  从你的Discord服务器主页中，选择“服务器设置”菜单中的“角色”选项卡。
     ![MJ_ServerSettings.png](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_ServerSettings.png)
 
 2.  选择“角色”选项卡并选择“创建角色”。

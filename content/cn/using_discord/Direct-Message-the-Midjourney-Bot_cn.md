@@ -1,3 +1,7 @@
+---
+title: 直接与Midjourney Bot通信
+weight: 2
+---
 Midjourney订阅者可以在他们的Discord直接消息中与Midjourney机器人进行一对一的工作。
 
 在您的直接消息中创建的图像仍然受内容和审核规则的约束，并将显示在您的Midjourney网站画廊中。

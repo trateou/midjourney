@@ -1,3 +1,7 @@
+---
+title: 使用Discord的表情符号与Midjourney交互
+weight: 2
+---
 使用不同的表情符号与Midjourney Jobs进行反应，发送图像到您的直接消息中，取消正在进行的工作或删除图像。
 
 使用表情符号对Midjourney Bot进行反应，以执行操作。

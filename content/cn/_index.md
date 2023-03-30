@@ -1,5 +1,5 @@
 ---
-title: Welcome to the documentation
+title: 欢迎来到此文档
 geekdocNav: false
 geekdocHidden: false
 geekdocAlign: center

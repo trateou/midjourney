@@ -1,4 +1,5 @@
 ---
-title: Next Steps
+title: 下一步
 geekdocCollapseSection: true
+weight: 3
 ---
