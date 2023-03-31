@@ -1,3 +1,7 @@
+---
+title: 订阅计划
+weight: 1
+---
 Midjourney有三种订阅等级。按月付款或整年付款可享受20%的折扣。每个订阅计划包括访问Midjourney会员画廊、官方Discord、一般商业使用条款等等。如何订阅使用"/subscribe"命令生成个人链接到订阅页面。或者，访问[Midjourney.com/account](https://www.midjourney.com/account/) 或者在登录Midjourney网站后选择侧栏中的"Manage Sub"。
 
 ## 计划比较
