@@ -1,6 +1,5 @@
 ---
 title: 命令列表
-geekdocCollapseSection: true
 weight: 1
 ---
 通过输入指令，您可以在Discord上与Midjourney机器人进行交互。指令用于创建图像、更改默认设置、监视用户信息和执行其他有用的任务。

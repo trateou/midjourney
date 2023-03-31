@@ -1,3 +1,7 @@
+---
+title: Info命令
+weight: 2
+---
 使用“/info”命令查看您当前排队和运行的作业、订阅类型、续订日期等信息。
 
 ！[图像显示使用/info命令后生成的用户信息弹出窗口](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Info.png)

@@ -1,4 +1,8 @@
-设置命令提供切换按钮，包括模型版本、样式值、质量值和升频器版本等常见选项。设置还有`/stealth`和`/public`命令的切换按钮。 
+---
+title: Setting命令
+weight: 3
+---
+设置命令提供切换按钮，包括模型版本、样式值、质量值和升频器版本等常见选项。设置还有`/stealth`和`/public`命令的切换按钮。
 
 ![显示Midjourney设置命令界面的图像](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_settings.jpg)
 
@@ -10,12 +14,12 @@ ___
 
 `🔥 Half Quality` `🔥 Base Quality` `🔥 High Quality (2x cost)`
 
-设置用于作业的[质量参数](https://docs.midjourney.com/quality)。  
+设置用于作业的[质量参数](https://docs.midjourney.com/quality)。
 Half Quality = `--q .5`，Base Quality = `--q 1`，High Quality = `--q 2`。
 
 `🖌️ Style Low` `🖌️ Style Med` `🖌️ Style High` `🖌️ Style Very High`
 
-设置用于作业的[Stylize Parameter](https://docs.midjourney.com/stylize)。  
+设置用于作业的[Stylize Parameter](https://docs.midjourney.com/stylize)。
 Style Low = `--s 50`，Style Med = `--s 100`，Style High = `--s 250`，Style Very High = `--s 750`。
 
 `🧍♂️Public` `🕵️ Stealth`
@@ -32,10 +36,10 @@ ___
 
 ## 自定义首选项
 
-使用首选命令创建自定义选项，以便自动向提示的末尾添加常用参数。  
-`/prefer auto_dm`：完成的作业将自动发送到直接消息。  
-`/prefer option`：创建或管理自定义选项。  
-`/prefer option list`：查看当前自定义选项。  
+使用首选命令创建自定义选项，以便自动向提示的末尾添加常用参数。
+`/prefer auto_dm`：完成的作业将自动发送到直接消息。
+`/prefer option`：创建或管理自定义选项。
+`/prefer option list`：查看当前自定义选项。
 `/prefer suffix`：指定要添加到每个提示末尾的后缀。
 
 ___
@@ -68,8 +72,8 @@ ___
 
 命令示例：`/prefer suffix` `--uplight --video`
 
-仅可以使用[参数](https://docs.midjourney.com/parameter-list)与`/prefer suffix`一起使用，  
-`prefer suffix --no orange`可接受  
+仅可以使用[参数](https://docs.midjourney.com/parameter-list)与`/prefer suffix`一起使用，
+`prefer suffix --no orange`可接受
 `prefer suffix orange::-1`不被接受
 
 订阅者可以与Midjourney Bot在Discord的直接消息中进行一对一的交流，而不是通过公共频道。在您的直接消息中创建的图像仍受内容和管制规则的约束，并将在Midjourney网站的画廊中可见。
