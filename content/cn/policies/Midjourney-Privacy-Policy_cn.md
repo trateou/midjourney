@@ -1,7 +1,7 @@
-----
+---
 title: 隐私条款
 weight: 2
-----
+---
 ### 1. 简介
 
 本隐私政策适用于Midjourney, Inc.、Midjourney.com网站和Midjourney图像生成平台（以下简称“服务”）。Midjourney, Inc.（以下简称“Midjourney”）是一家通讯技术孵化器，为增强人类创造力和促进社交连接提供图像生成服务。
