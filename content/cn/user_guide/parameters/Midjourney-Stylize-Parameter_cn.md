@@ -1,3 +1,7 @@
+---
+title: Stylize
+weight: 7
+---
 这个Midjourney Bot已经训练出能够支持艺术色彩、构图和形式的图像。`-stylize` 或 `-s` 参数会影响训练的强度。低的stylization值会产生与提示匹配度高但不太艺术的图像。而高的stylization值则会产生艺术感非常强但与提示联系不太紧密的图像。
 
 `-stylize` 的默认值为100，在使用默认的\[V4模型\]时接受0-1000的整数值。

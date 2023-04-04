@@ -1,8 +1,12 @@
+---
+title: Quality
+weight: 4
+---
 `--quality`或`--q`参数改变了生成图像所需的时间。高质量的设置需要较长的处理时间并生成更多细节。更高的数值也意味着每个作业使用的GPU分钟数更多。质量设置不影响分辨率。
 
-默认的`--quality`值为1。更高的值会使用更多您的订阅GPU分钟。  
-`--quality`接受值：.25、.5和1，适用于默认模型。较大的值将舍入到1。  
-`--quality`仅影响初始图像生成。  
+默认的`--quality`值为1。更高的值会使用更多您的订阅GPU分钟。
+`--quality`接受值：.25、.5和1，适用于默认模型。较大的值将舍入到1。
+`--quality`仅影响初始图像生成。
 `--quality`适用于[Model Versions](https://docs.midjourney.com/models) 1、2、3、4、5和niji。
 
 ___
@@ -100,7 +104,7 @@ ___
 
 ![动画GIF显示Midjourney品质参数是如何键入的](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Parameter_Quality.gif)
 
-  
+
 
 ### 使用设置命令
 

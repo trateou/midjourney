@@ -1,3 +1,7 @@
+---
+title: Stop
+weight: 6
+---
 使用`--stop`参数可以在作业处理过程中提前结束，但是在较早的百分比处停止作业会造成模糊，缺乏细节的结果。
 
 `--stop`接受值: 10-100。默认的`--stop`值为100。在[放大](https://docs.midjourney.com/upscalers)期间，不起作用。
@@ -80,6 +84,6 @@
 
 ![Midjourney Stop参数的输入示例](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_Parameter_Stop.gif)
 
-  
+
 
 本文是否有帮助？

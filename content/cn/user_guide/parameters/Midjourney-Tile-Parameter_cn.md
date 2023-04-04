@@ -1,6 +1,10 @@
+---
+title: Tile
+weight: 8
+---
 `--tile`参数生成可以用作重复图案的图像，用于制作无缝图案、壁纸和纹理。
 
-`--tile`适用于[型号版本](https://docs.midjourney.com/models)`1`、`2`、`3`和`5`。  
+`--tile`适用于[型号版本](https://docs.midjourney.com/models)`1`、`2`、`3`和`5`。
 `--tile`仅生成单个图块。使用像[Seamless Pattern Checker](https://www.pycheung.com/checker/)这样的图案制作工具来查看图块的重复。
 
 ___

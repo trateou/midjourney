@@ -1,3 +1,7 @@
+---
+title: Video
+weight: 10
+---
 使用 `--video` 参数创建一个包含初始图片网格生成短电影。使用信封 ✉️ 表情符号响应完成的作业，Midjourney Bot 将会在你的直接消息中发送一个视频链接。
 
 `--video` 仅适用于图像网格，而非放大处理。
@@ -36,7 +40,7 @@ ___
 
 ![展示 Midjourney 视频链接的图片 1](https://cdn.document360.io/3040c2b6-fead-4744-a3a9-d56d621c6c7e/Images/Documentation/MJ_VideoLink%281%29.png)
 
-  
+
 
 ___
 
